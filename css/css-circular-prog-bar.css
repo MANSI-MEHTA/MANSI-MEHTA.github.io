@@ -8,6 +8,8 @@
    background-color: #F2E9E1; 
    border-radius: 50%;
    line-height: 5em;
+   float: left;
+   pad
 }
 
 .progress-circle:after{
@@ -21,7 +23,7 @@
     width: 4.3em;
     height: 4.3em;
     background-color: white;
-    content: " ";
+    content: "";
 }
 /* Text inside the control */
 .progress-circle span {
